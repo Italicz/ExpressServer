@@ -1,0 +1,22 @@
+{
+  "name": "expressserver",
+  "version": "1.0.0",
+  "description": "Express Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Italicz/ExpressServer.git"
+  },
+  "author": "James Angier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Italicz/ExpressServer/issues"
+  },
+  "homepage": "https://github.com/Italicz/ExpressServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
