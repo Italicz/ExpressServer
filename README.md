@@ -12,7 +12,7 @@ git clone https://github.com/Italicz/ExpressServer.git
 ## Running the project
 To run the project for this week, run the following command in a terminal.
 ```
-
+node server.js
 ```
 # Table of Contents
 | Week | Description |
